@@ -4,13 +4,16 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 **Meeting notes, etc.:**
 
 
-**Book Link:**
+**Book Link:** https://lnkd.in/dQCUSYDb  
 
 
 **Week 1: Exploratory Data Analysis.**
+| Date | Presentation Material | Exercices |
+| :---: | :---: | :---: | 
+| 08/01/21 | 301 | 283 |
+| 15/01/21 | :---: | :---: | 
 
 
-Meeting date: 
 
 
 **Books**
