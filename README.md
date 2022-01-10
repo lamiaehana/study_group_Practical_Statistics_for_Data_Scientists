@@ -13,7 +13,7 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 **Week 1: Exploratory Data Analysis.**
 | Date | Presentation Material | Exercices |
 | :---: | :---: | :---: | 
-| 08/01/21 | [Chapitre 1 : Exploratory Data Analysis (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%201%20Exploratory%20Data%20Analysis%20Page%201%20to%20page%2019.pdf). | 283 |
+| 08/01/21 | [Chapitre 1 : Exploratory Data Analysis (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%201%20Exploratory%20Data%20Analysis%20Page%201%20to%20page%2019.pdf). | :---: |
 | 15/01/21 | :---: | :---: | 
 
 
