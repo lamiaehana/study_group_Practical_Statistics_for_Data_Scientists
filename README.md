@@ -4,17 +4,12 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 
 **Book Link:** https://lnkd.in/dQCUSYDb  
 
-**Meeting notes :**
-| Date | Link |
-| :---: | :---: |
-| 08/01/21 | [Here]|
-| :---: | :---: |
 
-**Week 1: Exploratory Data Analysis.**
+**Study group materials**
 | Date | Presentation Material | Presented by |
 | :---: | :---: | :---: | 
 | 08/01/21 & 15/01/21 | [Chapitre 1 : Exploratory Data Analysis (Part 1 & 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%201%20Exploratory%20Data%20Analysis.pdf). | Lamiae Hana |
-| 23/01/21 | :---: | :---: | 
+| 23/01/21 | [Feature engineering](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Feature%20Engineering/Feature%20engineering.pdf) | Oussama OUARDINI | 
 
 
 
