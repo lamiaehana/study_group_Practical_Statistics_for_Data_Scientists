@@ -2,7 +2,7 @@
 Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python 2nd edition
 
 
-**Book Link:** https://lnkd.in/dQCUSYDb  
+**Book Link:** https://lnkd.in/dQCUSYDb
 
 
 **Study group materials**
