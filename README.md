@@ -4,6 +4,8 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 
 **Book Link:** https://lnkd.in/dQCUSYDb
 
+**The Book Official Github:** https://github.com/gedeck/practical-statistics-for-data-scientists#readme
+
 
 **Study group materials**
 | Date | Presentation Material | Presented by |
