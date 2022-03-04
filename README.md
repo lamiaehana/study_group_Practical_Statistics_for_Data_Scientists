@@ -16,8 +16,8 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 |  | [Chapitre 2 : Data Sampling and Distribution (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%202-part%202%20Data%20sampling%20and%20distribution.pdf). | Salma Hamdoune |
 | 05/02/22 | [Chapitre 3 : Statistical Experiments and Significance Testing (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapitre%203%20-%20part%201%20Statistical%20Experiments%20and%20Significance%20Testing_Part%201.pdf) | Samah El KAH |
 |  | [Chapitre 3 : Statistical Experiments and Significance Testing (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%203-%20part%202%20Statistical%20Experiments%20and%20Significance%20Testing.pdf) | Lamiae Hana |
-| 26/02/22 | [Chapitre 4 : Regression and Prediction (Part 1)]() | Wala'a Khalili |
-|  | [Chapitre 4 : Regression and Prediction (Part 2)]() | Tarik Bouchnayaf |
+| 26/02/22 | [Chapitre 4 : Regression and Prediction (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%20%204%20-%20Regression%20and%20Prediction%20(Part%201).pdf) | Wala'a Khalili |
+|  | [Chapitre 4 : Regression and Prediction (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Regression%20And%20Prediction%20Part%202.pptx) | Tarik Bouchnayaf |
 
 
 
