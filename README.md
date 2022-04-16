@@ -18,6 +18,14 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 |  | [Chapitre 3 : Statistical Experiments and Significance Testing (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%203-%20part%202%20Statistical%20Experiments%20and%20Significance%20Testing.pdf) | Lamiae Hana |
 | 26/02/22 | [Chapitre 4 : Regression and Prediction (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%20%204%20-%20Regression%20and%20Prediction%20(Part%201).pdf) | Wala'a Khalili |
 |  | [Chapitre 4 : Regression and Prediction (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Regression%20And%20Prediction%20Part%202.pptx) | Tarik Bouchnayaf |
+| 00/00/2022 | [Chapitre 5 : Classification (Part 1)](XXX) | Mariem Azouigui* |
+|  | [Chapitre 5 : Classification (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%205-part%202%20Classification.pdf) | Ismail Sabri |
+| 00/00/2022  | [Chapitre 6 : Statistical Machine Learning (Part 1)](XXX) | Oussama Ouardini* |
+|   | [Chapitre 6 : Statistical Machine Learning (Part 2)](XXX) | Samah El Kah* |
+|   | [Chapitre 6 : Statistical Machine Learning (Part 3)](XXX) | Hassan Bellouch* |
+| 00/00/2022  | [Chapitre 7 : Unsupervised Learning (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%207-part%201%20UnsupervisedLearning.pdf) | Mira Boussarendal |
+|  | [Chapitre 7 : Unsupervised Learning (Part 2)](XXX) | Tarik Bouchnayaf* |
+
 
 
 
