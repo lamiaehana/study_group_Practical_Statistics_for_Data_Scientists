@@ -22,7 +22,6 @@ Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Pyth
 |  | [Chapitre 5 : Classification (Part 2)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%205-part%202%20Classification.pdf) | Ismail Sabri |
 | 00/00/2022  | [Chapitre 6 : Statistical Machine Learning (Part 1)](XXX) | Oussama Ouardini* |
 |   | [Chapitre 6 : Statistical Machine Learning (Part 2)](XXX) | Samah El Kah* |
-|   | [Chapitre 6 : Statistical Machine Learning (Part 3)](XXX) | Hassan Bellouch* |
 | 00/00/2022  | [Chapitre 7 : Unsupervised Learning (Part 1)](https://github.com/lamiaehana/study_group_Practical_Statistics_for_Data_Scientists/blob/main/Chapter%207-part%201%20UnsupervisedLearning.pdf) | Mira Boussarendal |
 |  | [Chapitre 7 : Unsupervised Learning (Part 2)](XXX) | Tarik Bouchnayaf* |
 
